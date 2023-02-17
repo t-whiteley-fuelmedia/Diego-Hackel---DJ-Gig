@@ -1,0 +1,30 @@
+.nav-link-custom:hover {
+    color: #f22681;
+}
+
+.nav-link-custom {
+    color: #f22681;
+}
+
+.nav-btn-custom {
+    border: 0 none;
+}
+
+.nav-btn-custom:hover {
+    color: #f22681;
+}
+
+.custom-hero-heading {
+    font-size: 5rem;
+}
+
+.custom-h-class {
+    display: inline-block;
+}
+
+@media (max-width: 768px) {
+    .custom-h-class {
+        display: block;
+        line-height: 1.01;
+    }
+}
