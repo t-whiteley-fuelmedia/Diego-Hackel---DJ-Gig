@@ -17,3 +17,14 @@
 .custom-hero-heading {
     font-size: 5rem;
 }
+
+.custom-h-class {
+    display: inline-block;
+}
+
+@media (max-width: 768px) {
+    .custom-h-class {
+        display: block;
+        line-height: 1.01;
+    }
+}
